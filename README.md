@@ -1,1 +1,1 @@
-# numgr
+# numgr - Numerical General Relativity

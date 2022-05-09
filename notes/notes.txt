@@ -1,0 +1,34 @@
+2022.03.23.
+-----------
+
+- gömbszimmtrikus; c=1 -> d \tau^{2}
+- ennek a komponenseinek a tagjait keressünk e^{2 \nu (r)} alakokban
+- itt jönnek ki az [1 - 2GM / r]-es tagok a dtau komponenseire
+- [2GM / r] = 1 -> [2GM] = r_s
+- koordináta szingularitás jön ki r = r_s-nél
+
+Kapcsolat a relat és a Newton között:
+- F = ma = 0 <-> Godetikus egyenlet + egyenletrendszer négyesgyorsulásra
+-> d/d\tau U^{\mu} = 0
+- gyenge + sztatikus tér: g_00 = [1 + \delta] \mu_00
+-> Külső Schwarzschield megoldás: U(r) = - GM/r
+
+Belső Schwarzschield megoldás:
+
+- T^{\mu \nu} = -pg^{\mu \nu} + (p + \epsilon) u^{\mu} u^{\nu}
+- Az anyag ebben az állapotegyenletben szerepel (EoS): (p + \epsilon):
+-- p(\epsilon), \epsilon(p) stb. \rho-val
+
+Ricci tenzor és skalár:
+
+- ...
+- R = g_{\mu \nu} R^{\mu \nu
+
+- G definíciójában jön az Einsteins egyenlet
+- G tagjai kifejthetőek így 3 egyenletbe (G00, G11, G22 == G33)
+
+Anyagi függvények:
+- lambda, nu'*lambda', nu'', nu''^{2}, lambda' * 'nu'
+- TOV egyenlet: nyomás gradienst írja le
+- Ez az, ami baromi menő: Newton + áltrel korrekció
+- TOV elején a "-" jel következménye: Leír egy csillagot
